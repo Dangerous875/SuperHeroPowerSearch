@@ -1,0 +1,10 @@
+<resources >
+    <style name="Base.Theme.SuperHeroPotente" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+       <item name="colorPrimary">@color/black</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+    </style>
+
+    <style name="Theme.SuperHeroPotente" parent="Base.Theme.SuperHeroPotente" />
+</resources>
